@@ -3,7 +3,7 @@
 A personal gym session tracker built with React. Log your workouts, track your Personal Records (PRs) automatically, and visualise your weight progression over time with charts.
 
 ## 🌐 Live Demo
-[Click here to view the live app](YOUR_VERCEL_URL)
+[Click here to view the live app](https://gym-tracker-ten-indol.vercel.app/)
 
 ## 📸 Features
 - 💪 Log workouts by muscle group and exercise with sets, reps, and weight
